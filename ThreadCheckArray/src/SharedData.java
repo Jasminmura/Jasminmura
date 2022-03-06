@@ -1,4 +1,4 @@
-public class SharedData 
+public class SharedData //arrr
 {
 	private int [] array;
 	private boolean [] winArray;
@@ -10,7 +10,6 @@ public class SharedData
 		this.array = array;
 		this.b = b;
 	}
-
 	public boolean[] getWinArray() 
 	{
 		return winArray;
